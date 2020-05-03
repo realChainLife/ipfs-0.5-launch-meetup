@@ -5,3 +5,4 @@ A Mashup of my favorite slides from the IPFS 0.5 Launch Meetup. Slides include p
 - Content Routing Changes & Improvements (Adin Schmahmann & Jacob Heun)
 - Upgrade Your Developer Tooling with Textile (Carson Farmer)
 - Pinata: Faster Cheaper Pinning (Matt Ober)
+- Ligtning Demos in A Break out Session
